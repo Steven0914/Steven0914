@@ -19,5 +19,4 @@
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steven0914&show_icons=true&theme=radical)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shu914)](https://solved.ac/shu914/)
