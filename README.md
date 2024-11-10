@@ -16,6 +16,6 @@
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
 ### Blog
-[MY BLOG](https://steven0914.github.io/)
+[**MY BLOG**](https://steven0914.github.io/)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Steven0914&theme=dark&background=000000)](https://git.io/streak-stats)
